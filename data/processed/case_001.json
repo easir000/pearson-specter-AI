@@ -1,0 +1,7 @@
+{
+    "case_id": "24-12345",
+    "plaintiff": "Jhon",
+    "defendant": "Acme",
+    "filed_date": "2024-05-01",
+    "clean_text": "Case No. 24-12345\nPlaintiff: Jhon Smith\nDefendant: Acme Corp\nFiled: 2O24-O5-O1\n\nThe Plaintif filed a claim against Acme Corp for breach of contract.\nThe defendent failed to deliver goods as per agrement."
+}

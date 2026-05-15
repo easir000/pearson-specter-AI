@@ -1,0 +1,18 @@
+{
+    "query": "Case Fact Summary",
+    "facts": [
+        "Defendant: Acme",
+        "Plaintiff: Jhon"
+    ],
+    "citations": [],
+    "draft": "RE: Case Fact Summary\n\nFACTS:\n- Defendant: Acme\n- Plaintiff: Jhon\n\nCITATIONS:\n",
+    "evidence_used": [
+        0,
+        -1,
+        -1
+    ],
+    "corrected_facts": [
+        "Defendant: Acme",
+        "Plaintiff: John"
+    ]
+}

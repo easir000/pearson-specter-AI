@@ -1,0 +1,7 @@
+Case No. 24-12345
+Plaintiff: Jhon Smith
+Defendant: Acme Corp
+Filed: 2024-05-01
+
+The Plaintif filed a claim against Acme Corp for breach of contract.
+The defendent failed to deliver goods as per agrernent.
